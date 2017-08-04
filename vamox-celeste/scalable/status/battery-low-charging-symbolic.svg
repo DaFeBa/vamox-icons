@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg17172"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="battery-low-charging-symbolic.svg">
+  <defs
+     id="defs17174">
+    <linearGradient
+       id="linearGradient5316-0-7">
+      <stop
+         style="stop-color:#87c7ff;stop-opacity:1;"
+         offset="0"
+         id="stop5320-8-1" />
+      <stop
+         style="stop-color:#74aadb;stop-opacity:1;"
+         offset="1"
+         id="stop5322-1-3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5316-0-7"
+       id="linearGradient5958"
+       x1="6.5669298"
+       y1="7.4218106"
+       x2="121.71664"
+       y2="120.27895"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5316-0-7"
+       id="linearGradient3366"
+       x1="6.1130128"
+       y1="7.1793122"
+       x2="119.54064"
+       y2="123.29131"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.7731844"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata17177">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-924.36217)">
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient3366);fill-opacity:1;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       d="M 61.65625 1.75 C 53.330163 1.8772579 45.752288 4.0857187 39.09375 7.875 C 39.08135 7.885 39.0749 7.89925 39.0625 7.90625 C 38.87644 7.97325 38.64504 8.02665 38.46875 8.09375 C 17.99648 15.88555 5.00992 38.6802 5.03125 63.8125 C 5.04935 84.78691 14.27971 103.55855 30.15625 112.15625 C 30.25585 112.21025 30.36779 112.2591 30.46875 112.3125 C 39.91526 119.8002 52.26581 123.42425 66.90625 120.90625 C 74.83396 119.31705 73.15345 113.01315 66.21875 114.40625 C 35.00904 119.77395 15.34051 93.89721 15.3125 64.1875 C 15.2844 34.2451 33.08376 6.53655 63.5 7.53125 C 89.66624 8.52605 105.46875 30.3666 105.46875 60.3125 C 105.31875 64.1672 110.74621 64.9165 111 60.1875 C 111 26.5626 92.96707 3.98795 66.46875 1.90625 C 65.41719 1.82325 64.37427 1.7687 63.34375 1.75 C 62.782196 1.7398125 62.211322 1.7415161 61.65625 1.75 z M 39.65625 16.03125 C 26.73948 25.33465 20.83615 38.38175 18.40625 52.03125 L 28.53125 53.90625 C 26.87943 53.04205 25.66116 51.88535 26.0625 49.84375 C 27.00189 46.67105 30.19676 47.60925 33.53125 47.78125 L 50.21875 50.34375 C 51.3221 48.28215 52.74078 46.4631 54.46875 45.0625 L 39.65625 16.03125 z M 29.65625 48.96875 C 28.8474 48.99275 28.2275 49.4046 27.9375 50.0625 C 27.55732 50.9252 27.8375 52.06155 29.375 52.65625 L 58.25 63.1875 C 59.31433 65.3696 61.34481 66.84375 63.6875 66.84375 C 67.129 66.84375 69.90625 63.64845 69.90625 59.71875 C 69.90625 55.78915 67.129 52.59375 63.6875 52.59375 C 62.38165 52.59375 61.15765 53.05985 60.15625 53.84375 L 30.53125 49.09375 C 30.22514 49.00975 29.92587 48.96085 29.65625 48.96875 z M 17.84375 54.59375 C 16.12268 70.43735 19.70696 84.62835 28.125 97.46875 L 51.40625 72.46875 C 49.18843 69.57575 47.8772 65.74725 47.6875 61.65625 L 36.84375 57.3125 L 17.84375 54.59375 z M 109.4375 65.78125 C 106.97179 65.78125 104.71512 68.06565 104.75 70.53125 L 104.75 86.78125 L 91.1875 86.84375 L 91.1875 70.53125 C 91.2035 67.91205 88.6043 65.56345 86 65.84375 C 83.72779 66.08905 81.83082 68.24595 81.84375 70.53125 L 81.84375 86.9375 L 74.5 87.03125 C 72.05661 87.03125 69.84399 89.2441 69.84375 91.6875 C 69.84375 104.0083 72.39255 113.00625 77.59375 119.03125 C 82.79497 125.05615 90.39851 127.39595 98.1875 127.28125 C 105.49582 127.17455 112.85219 124.8625 118.1875 118.9375 C 123.5228 113.0124 126.51264 104.04395 126.75 91.59375 C 126.8391 89.09535 124.5937 86.77995 122.09375 86.78125 L 114.09375 86.78125 L 114.09375 70.53125 C 114.12865 68.06565 111.9032 65.78125 109.4375 65.78125 z "
+       transform="translate(0,924.36217)"
+       id="path4355" />
+  </g>
+</svg>

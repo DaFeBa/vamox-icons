@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg17172"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="battery-full-charging-symbolic.svg">
+  <defs
+     id="defs17174">
+    <linearGradient
+       id="linearGradient5316-0-7">
+      <stop
+         style="stop-color:#87c7ff;stop-opacity:1;"
+         offset="0"
+         id="stop5320-8-1" />
+      <stop
+         style="stop-color:#74aadb;stop-opacity:1;"
+         offset="1"
+         id="stop5322-1-3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5316-0-7"
+       id="linearGradient5821"
+       x1="5.4955015"
+       y1="5.2789536"
+       x2="124.57378"
+       y2="120.63609"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5316-0-7"
+       id="linearGradient3402"
+       x1="5.7455096"
+       y1="7.3712649"
+       x2="126.75257"
+       y2="122.37126"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="86.43576"
+     inkscape:cy="60.400381"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata17177">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-924.36217)">
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient3402);fill-opacity:1;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       d="M 61.65625 1.75 C 53.330163 1.8772579 45.752288 4.0857187 39.09375 7.875 C 39.08135 7.885 39.0749 7.89925 39.0625 7.90625 C 38.87644 7.97325 38.64504 8.02665 38.46875 8.09375 C 17.99648 15.88555 5.00992 38.6802 5.03125 63.8125 C 5.04935 84.78692 14.27971 103.55855 30.15625 112.15625 C 30.25585 112.21025 30.36779 112.2591 30.46875 112.3125 C 39.91526 119.8002 52.26581 123.42425 66.90625 120.90625 C 74.83396 119.31705 73.15345 113.01315 66.21875 114.40625 C 35.00904 119.77395 15.34051 93.89722 15.3125 64.1875 C 15.2844 34.2451 33.08376 6.53655 63.5 7.53125 C 89.66624 8.52605 105.46875 30.3666 105.46875 60.3125 C 105.31875 64.1672 110.74621 64.9165 111 60.1875 C 111 26.5626 92.96707 3.98795 66.46875 1.90625 C 65.41719 1.82325 64.37427 1.7687 63.34375 1.75 C 62.782196 1.7398125 62.211322 1.7415161 61.65625 1.75 z M 60.96875 9.25 C 53.45117 9.441 46.66388 11.78605 41.96875 14.78125 L 55.8125 44.09375 C 58.32291 42.48505 61.31133 41.64335 64.65625 41.90625 C 67.46842 42.12725 69.95103 43.1139 72 44.75 L 87.40625 19.0625 C 78.9404 11.5782 69.48867 9.0335 60.96875 9.25 z M 39.65625 16.03125 C 26.73948 25.33465 20.83615 38.38175 18.40625 52.03125 L 47.90625 57.5 C 48.60061 52.4376 50.93697 47.9253 54.46875 45.0625 L 39.65625 16.03125 z M 89.375 20.84375 L 73.8125 46.53125 C 75.25991 48.21341 76.37733 50.3164 77.09375 52.75 L 95.40625 53 C 98.30929 52.984 101.37955 53.00045 101.90625 56.03125 C 102.1651 59.32995 98.86251 59.5917 95.6875 60.625 L 84.125 63.15625 L 102.0625 65.78125 C 104.77482 46.67465 99.00309 32.59365 89.375 20.84375 z M 63.6875 52.59375 C 60.246 52.59375 57.4375 55.7891 57.4375 59.71875 C 57.4375 63.6484 60.246 66.84375 63.6875 66.84375 C 65.50441 66.84375 67.14222 65.94777 68.28125 64.53125 L 98.40625 58.1875 C 99.66958 58.0622 100.42176 57.30115 100.46875 56.34375 C 100.51485 55.40215 99.83602 54.4423 98.1875 54.4375 L 68.28125 54.9375 C 67.1416 53.50994 65.5125 52.59375 63.6875 52.59375 z M 17.84375 54.59375 C 16.12268 70.43735 19.70696 84.62835 28.125 97.46875 L 51.40625 72.46875 C 49.00743 69.33967 47.66046 65.12385 47.65625 60.65625 C 47.65564 60.05855 47.7057 59.4628 47.75 58.875 L 17.84375 54.59375 z M 109.4375 65.78125 C 106.97179 65.78125 104.71512 68.06565 104.75 70.53125 L 104.75 86.78125 L 91.1875 86.84375 L 91.1875 70.53125 C 91.2035 67.91205 88.6043 65.56345 86 65.84375 C 83.72779 66.08905 81.83082 68.24595 81.84375 70.53125 L 81.84375 86.9375 L 74.5 87.03125 C 72.05661 87.03125 69.84399 89.2441 69.84375 91.6875 C 69.84375 104.0083 72.39255 113.00625 77.59375 119.03125 C 82.79497 125.05615 90.39851 127.39595 98.1875 127.28125 C 105.49582 127.17455 112.85219 124.8625 118.1875 118.9375 C 123.5228 113.0124 126.51264 104.04395 126.75 91.59375 C 126.8391 89.09535 124.5937 86.77995 122.09375 86.78125 L 114.09375 86.78125 L 114.09375 70.53125 C 114.12865 68.06565 111.9032 65.78125 109.4375 65.78125 z "
+       transform="translate(0,924.36217)"
+       id="path4373" />
+  </g>
+</svg>
