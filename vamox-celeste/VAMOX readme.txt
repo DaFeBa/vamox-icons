@@ -3,7 +3,20 @@ Created by Darío Badagnani and Emiliano Luciani
 Creative Commons by-sa 3.0 - vamox.blogspot.com
 
 
-Changelog
+Changelog:
+
+2.0.3
+"Jacarandá" color
+Clear file ( / )
+Delete file ( X ) on shredded paper
+
+
+2.0.2
+next track border fixed
+New icon for Dev in categories
+new start-here icons
+system logout different of app exit
+
 
 2.0.1
 Camera device fixes
@@ -12,7 +25,6 @@ Camera device fixes
 2.0
 symbolic icons - devices
 scanner and dial icon
-
 
 1.9.3
 
