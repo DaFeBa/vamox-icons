@@ -5,6 +5,19 @@ Creative Commons by-sa 3.0 - vamox.blogspot.com
 
 Changelog:
 
+2.0.3
+"Jacarandá" color
+Clear file ( / )
+Delete file ( X ) on shredded paper
+
+
+2.0.2
+next track border fixed
+New icon for Dev in categories
+new start-here icons
+system logout different of app exit
+
+
 2.0.1
 Camera device fixes
 

@@ -1,0 +1,27 @@
+How to use stock icons?
+
+You must copy the file iconrc included with Dropline Etiquette iconset to
+	
+	/usr/share/themes/<yourtheme>/gtk-2.0
+	
+or
+
+	/home/<you>/.themes/<yourtheme>/gtk-2.0
+
+and then edit the gtkrc file from <yourtheme> to make sure it's pointing
+to the iconrc you want. the gtkrc file is usually located in the same directory 
+as the iconrc (read a few lines above). in the gtkrc file make sure that the
+following line is present:
+
+	include "iconrc"
+	
+if you don't want to replace you'r old iconrc file then you can open the gtkrc
+file and edit so it points to Dropline Etiquette's iconrc file:
+
+	include "/path/to/dlg-etiquette/scalable/stock/iconrc/iconrc"
+	
+thanks for using this iconset!
+______________________________
+
+Silvestre Herrera (silvestre[dot]herrera[at]gmail[dot]com)
+Dropline GNOME Developer [ http://www.dropline.net/gnome ]
