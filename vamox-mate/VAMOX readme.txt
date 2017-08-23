@@ -6,6 +6,7 @@ Creative Commons by-sa 3.0 - vamox.blogspot.com
 Changelog:
 
 2.0.3
+Printer Simbolic and printer network symbolic
 "Jacarandá" color
 Clear file ( / )
 Delete file ( X ) on shredded paper
