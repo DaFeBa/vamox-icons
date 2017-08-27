@@ -19,15 +19,577 @@
   <defs
      id="defs17174">
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient13604-6-40"
-       id="linearGradient19176"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.2760519,0,0,2.2760519,-1108.727,-1139.1597)"
-       x1="515.5863"
-       y1="952.8299"
-       x2="528.09021"
-       y2="990.23395" />
+       id="linearGradient9863-4">
+      <stop
+         style="stop-color:#2f445a;stop-opacity:1;"
+         offset="0"
+         id="stop9865-0" />
+      <stop
+         style="stop-color:#415f7c;stop-opacity:1"
+         offset="1"
+         id="stop9867-6" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5344-50">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5346-2" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5348-5" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient17081">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop17083" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop17085" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5316-0">
+      <stop
+         style="stop-color:#87c7ff;stop-opacity:1;"
+         offset="0"
+         id="stop5320-8" />
+      <stop
+         style="stop-color:#74aadb;stop-opacity:1;"
+         offset="1"
+         id="stop5322-1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient17092">
+      <stop
+         style="stop-color:#87c7ff;stop-opacity:1;"
+         offset="0"
+         id="stop17094" />
+      <stop
+         style="stop-color:#74aadb;stop-opacity:1;"
+         offset="1"
+         id="stop17096" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient13604-6">
+      <stop
+         id="stop13606-2"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop13608-7"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient13620-8">
+      <stop
+         id="stop13622-7"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop13624-6"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient17107">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop17109" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop17111" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient17118">
+      <stop
+         id="stop17120"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop17122"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient17125">
+      <stop
+         id="stop17127"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop17129"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient17136">
+      <stop
+         style="stop-color:#87c7ff;stop-opacity:1;"
+         offset="0"
+         id="stop17138" />
+      <stop
+         style="stop-color:#74aadb;stop-opacity:1;"
+         offset="1"
+         id="stop17140" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient14769-9">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop14771-3" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop14773-9" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient17149">
+      <stop
+         style="stop-color:#87c7ff;stop-opacity:1;"
+         offset="0"
+         id="stop17151" />
+      <stop
+         style="stop-color:#74aadb;stop-opacity:1;"
+         offset="1"
+         id="stop17153" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient13628-4">
+      <stop
+         style="stop-color:#b995da;stop-opacity:1;"
+         offset="0"
+         id="stop13630-3" />
+      <stop
+         style="stop-color:#766287;stop-opacity:1;"
+         offset="1"
+         id="stop13632-1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient13604-6-7">
+      <stop
+         id="stop13606-2-9"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop13608-7-5"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient18285">
+      <stop
+         id="stop18287"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop18289"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient18292">
+      <stop
+         id="stop18294"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop18296"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5316-0-7">
+      <stop
+         style="stop-color:#87c7ff;stop-opacity:1;"
+         offset="0"
+         id="stop5320-8-1" />
+      <stop
+         style="stop-color:#74aadb;stop-opacity:1;"
+         offset="1"
+         id="stop5322-1-3" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient18307">
+      <stop
+         style="stop-color:#87c7ff;stop-opacity:1;"
+         offset="0"
+         id="stop18309" />
+      <stop
+         style="stop-color:#74aadb;stop-opacity:1;"
+         offset="1"
+         id="stop18311" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient18314">
+      <stop
+         style="stop-color:#87c7ff;stop-opacity:1;"
+         offset="0"
+         id="stop18316" />
+      <stop
+         style="stop-color:#74aadb;stop-opacity:1;"
+         offset="1"
+         id="stop18318" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient18321">
+      <stop
+         id="stop18323"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop18325"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9863-4-7">
+      <stop
+         style="stop-color:#2f445a;stop-opacity:1;"
+         offset="0"
+         id="stop9865-0-8" />
+      <stop
+         style="stop-color:#415f7c;stop-opacity:1"
+         offset="1"
+         id="stop9867-6-2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient18332">
+      <stop
+         id="stop18334"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop18336"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5439-3">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5441-29" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop5443-3" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5344-50-8">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5346-2-2" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5348-5-5" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5362-7">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5364-61" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop5366-8" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient18351">
+      <stop
+         id="stop18353"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop18355"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient13604-6-4">
+      <stop
+         id="stop13606-2-6"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop13608-7-0"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19231">
+      <stop
+         id="stop19233"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop19235"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19238">
+      <stop
+         id="stop19240"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop19242"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5316-0-0">
+      <stop
+         style="stop-color:#87c7ff;stop-opacity:1;"
+         offset="0"
+         id="stop5320-8-15" />
+      <stop
+         style="stop-color:#74aadb;stop-opacity:1;"
+         offset="1"
+         id="stop5322-1-1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19249">
+      <stop
+         style="stop-color:#87c7ff;stop-opacity:1;"
+         offset="0"
+         id="stop19251" />
+      <stop
+         style="stop-color:#74aadb;stop-opacity:1;"
+         offset="1"
+         id="stop19253" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19260">
+      <stop
+         id="stop19262"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop19264"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9863-4-4">
+      <stop
+         style="stop-color:#2f445a;stop-opacity:1;"
+         offset="0"
+         id="stop9865-0-4" />
+      <stop
+         style="stop-color:#415f7c;stop-opacity:1"
+         offset="1"
+         id="stop9867-6-0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19271">
+      <stop
+         id="stop19273"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop19275"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5439-3-0">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5441-29-2" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop5443-3-7" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5344-50-5">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5346-2-7" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5348-5-3" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19286">
+      <stop
+         id="stop19288"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop19290"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient13628-4-3">
+      <stop
+         style="stop-color:#b995da;stop-opacity:1;"
+         offset="0"
+         id="stop13630-3-1" />
+      <stop
+         style="stop-color:#766287;stop-opacity:1;"
+         offset="1"
+         id="stop13632-1-2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient13604-6-0">
+      <stop
+         id="stop13606-2-2"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop13608-7-7"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19579">
+      <stop
+         id="stop19581"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop19583"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19586">
+      <stop
+         id="stop19588"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop19590"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5316-0-8">
+      <stop
+         style="stop-color:#87c7ff;stop-opacity:1;"
+         offset="0"
+         id="stop5320-8-4" />
+      <stop
+         style="stop-color:#74aadb;stop-opacity:1;"
+         offset="1"
+         id="stop5322-1-2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19601">
+      <stop
+         style="stop-color:#87c7ff;stop-opacity:1;"
+         offset="0"
+         id="stop19603" />
+      <stop
+         style="stop-color:#74aadb;stop-opacity:1;"
+         offset="1"
+         id="stop19605" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19608">
+      <stop
+         style="stop-color:#87c7ff;stop-opacity:1;"
+         offset="0"
+         id="stop19610" />
+      <stop
+         style="stop-color:#74aadb;stop-opacity:1;"
+         offset="1"
+         id="stop19612" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19615">
+      <stop
+         id="stop19617"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop19619"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9863-4-77">
+      <stop
+         style="stop-color:#2f445a;stop-opacity:1;"
+         offset="0"
+         id="stop9865-0-41" />
+      <stop
+         style="stop-color:#415f7c;stop-opacity:1"
+         offset="1"
+         id="stop9867-6-5" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19626">
+      <stop
+         id="stop19628"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop19630"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5439-3-4">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5441-29-3" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop5443-3-9" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5344-50-1">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5346-2-4" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5348-5-56" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5362-7-7">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5364-61-5" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop5366-8-0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19645">
+      <stop
+         id="stop19647"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop19649"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
     <linearGradient
        id="linearGradient13604-6-40">
       <stop
@@ -40,55 +602,60 @@
          style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient13604-6-40"
-       id="linearGradient19179"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.258579,-2.4057068,2.5629733,1.1955693,-3056.2887,1142.3189)"
-       x1="506.53442"
-       y1="958.87305"
-       x2="530.64825"
-       y2="952.20062" />
+       id="linearGradient20000">
+      <stop
+         id="stop20002"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop20004"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient13604-6-40"
-       id="linearGradient19183"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.8444445,0,0,2.8444445,-1403.0282,-1686.1947)"
-       x1="514.4931"
-       y1="950.51849"
-       x2="517.49799"
-       y2="967.01849" />
+       id="linearGradient20007">
+      <stop
+         id="stop20009"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop20011"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5398-0-3"
-       id="linearGradient19186"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.8444445,0,0,2.8444445,-207.10441,-1688.206)"
-       x1="85.341202"
-       y1="973.43915"
-       x2="84.364372"
-       y2="962.16968" />
+       id="linearGradient5316-0-6">
+      <stop
+         style="stop-color:#87c7ff;stop-opacity:1;"
+         offset="0"
+         id="stop5320-8-8" />
+      <stop
+         style="stop-color:#74aadb;stop-opacity:1;"
+         offset="1"
+         id="stop5322-1-16" />
+    </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient13604-6-40"
-       id="linearGradient19191"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.8444445,0,0,2.8444445,-492.80592,-1686.1947)"
-       x1="200.4375"
-       y1="989.04968"
-       x2="189.375"
-       y2="972.42468" />
+       id="linearGradient20018">
+      <stop
+         id="stop20020"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop20022"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient9863-4-1"
-       id="linearGradient19197"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.8444445,0,0,2.8444445,-811.3837,-1458.639)"
-       x1="308.6875"
-       y1="907.00311"
-       x2="308.6875"
-       y2="859.37317" />
+       id="linearGradient5398-0">
+      <stop
+         style="stop-color:#766287;stop-opacity:1;"
+         offset="0"
+         id="stop5400-0" />
+      <stop
+         style="stop-color:#c2ff87;stop-opacity:0;"
+         offset="1"
+         id="stop5402-5" />
+    </linearGradient>
     <linearGradient
        id="linearGradient9863-4-1">
       <stop
@@ -101,25 +668,16 @@
          id="stop9867-6-6" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient13604-6-40"
-       id="linearGradient19201"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.9192873,0,0,2.8633919,-1439.5886,-1704.8162)"
-       x1="585.32428"
-       y1="1057.6436"
-       x2="492.58313"
-       y2="945.6142" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5439-3-5"
-       id="linearGradient19204"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.8960305,0,0,2.8959107,-1404.6407,-1736.0944)"
-       x1="535.57587"
-       y1="1000.2343"
-       x2="496.84631"
-       y2="946.46552" />
+       id="linearGradient20033">
+      <stop
+         id="stop20035"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop20037"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
     <linearGradient
        id="linearGradient5439-3-5">
       <stop
@@ -132,16 +690,6 @@
          id="stop5443-3-3" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5344-50-12"
-       id="linearGradient19207"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.8960305,0,0,2.8959107,-1404.6407,-1736.0944)"
-       x1="504.93024"
-       y1="992.24542"
-       x2="497.81961"
-       y2="968.64575" />
-    <linearGradient
        id="linearGradient5344-50-12">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
@@ -152,16 +700,6 @@
          offset="1"
          id="stop5348-5-0" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5362-7-6"
-       id="linearGradient19210"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.8960305,0,0,2.8959107,-1404.6407,-1736.0944)"
-       x1="502.97885"
-       y1="936.30072"
-       x2="499.43576"
-       y2="956.01135" />
     <linearGradient
        id="linearGradient5362-7-6">
       <stop
@@ -174,57 +712,142 @@
          id="stop5366-8-6" />
     </linearGradient>
     <linearGradient
+       id="linearGradient20052">
+      <stop
+         id="stop20054"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop20056"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient13628-4-37">
+      <stop
+         style="stop-color:#b995da;stop-opacity:1;"
+         offset="0"
+         id="stop13630-3-7" />
+      <stop
+         style="stop-color:#766287;stop-opacity:1;"
+         offset="1"
+         id="stop13632-1-6" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient13604-6-40"
-       id="linearGradient19213"
+       xlink:href="#linearGradient13628-4"
+       id="linearGradient4889"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.8960305,0,0,2.8959107,-1404.6407,-1736.0944)"
+       gradientTransform="translate(4.5592641e-8,-7.6708983e-6)"
+       x1="2.6289308"
+       y1="1053.908"
+       x2="120.98979"
+       y2="1077.0596" />
+    <linearGradient
+       id="linearGradient12595-4">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0.8874172;"
+         offset="0"
+         id="stop12597-9" />
+      <stop
+         id="stop12603-4"
+         offset="0.31688023"
+         style="stop-color:#ff0000;stop-opacity:0.41721857;" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0;"
+         offset="1"
+         id="stop12599-2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13604-6"
+       id="linearGradient19091"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.8444445,0,0,2.8444445,-448.86427,-1705.1352)"
+       x1="200.4375"
+       y1="989.04968"
+       x2="189.375"
+       y2="972.42468" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9863-4"
+       id="linearGradient19094"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.8444445,0,0,2.8444445,-811.38369,-1458.6391)"
+       x1="308.6875"
+       y1="907.00311"
+       x2="308.6875"
+       y2="859.37317" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13604-6"
+       id="linearGradient19097"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.9192873,0,0,2.8633919,-1439.5886,-1704.8163)"
+       x1="585.32428"
+       y1="1057.6436"
+       x2="492.58313"
+       y2="945.6142" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13604-6"
+       id="linearGradient19100"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.8960305,0,0,2.8959107,-1404.6407,-1736.0945)"
+       x1="535.57587"
+       y1="1000.2343"
+       x2="493.70932"
+       y2="939.68524" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5344-50"
+       id="linearGradient19103"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.8960305,0,0,2.8959107,-1404.6407,-1736.0945)"
+       x1="504.93024"
+       y1="992.24542"
+       x2="497.81961"
+       y2="968.64575" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5362-7"
+       id="linearGradient19106"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.8960305,0,0,2.8959107,-1404.6407,-1736.0945)"
+       x1="502.97885"
+       y1="936.30072"
+       x2="499.43576"
+       y2="956.01135" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13604-6"
+       id="linearGradient19109"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.8960305,0,0,2.8959107,-1404.6407,-1736.0945)"
        x1="506.14658"
        y1="891.09094"
        x2="484.66602"
        y2="986.18469" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient13628-4-37"
-       id="linearGradient20313"
+       xlink:href="#linearGradient13628-4"
+       id="linearGradient5121"
+       x1="76.419975"
+       y1="0.34229168"
+       x2="108.43155"
+       y2="43.422153"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.8444445,0,0,2.8444445,-1368.9595,-625.28304)"
-       x1="516.26202"
-       y1="567.96631"
-       x2="517.18903"
-       y2="590.68213" />
-    <linearGradient
-       id="linearGradient13628-4-37">
-      <stop
-         style="stop-color:#aac736;stop-opacity:1;"
-         offset="0"
-         id="stop13630-3-7" />
-      <stop
-         style="stop-color:#5d8b2c;stop-opacity:1;"
-         offset="1"
-         id="stop13632-1-6" />
-    </linearGradient>
-    <filter
-       inkscape:collect="always"
-       id="filter21405-5-3"
-       style="color-interpolation-filters:sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.34806852"
-         id="feGaussianBlur21407-3-2" />
-    </filter>
+       gradientTransform="matrix(0.99454704,0,0,0.99454793,2.920525,983.19898)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient5398-0-3">
-      <stop
-         style="stop-color:#766287;stop-opacity:1"
-         offset="0"
-         id="stop5400-0-6" />
-      <stop
-         style="stop-color:#766287;stop-opacity:0"
-         offset="1"
-         id="stop5402-5-7" />
-    </linearGradient>
+       xlink:href="#linearGradient5344-50"
+       id="linearGradient850"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1798093,0,0,2.1797404,-890.14268,-176.80755)"
+       x1="495.94766"
+       y1="486.7771"
+       x2="434.51016"
+       y2="572.7771" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -233,9 +856,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="63.068489"
-     inkscape:cy="68.237724"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="146.19519"
+     inkscape:cy="70.960072"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -263,174 +886,151 @@
      id="layer1"
      transform="translate(0,-985.98631)">
     <path
-       style="display:inline;fill:url(#linearGradient19213);fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       d="m 108.27783,1049.9957 c -0.81095,31.8398 -16.618381,62.6006 -43.787373,62.7808 -11.464822,0.077 -24.136534,-2.7161 -32.330816,-7.1535 -16.934966,-9.1707 -26.7733333,-29.1993 -26.7926719,-51.572 -0.02272,-26.8077 13.8419199,-51.1249 35.6790079,-59.43609 6.376106,-2.42659 18.866058,-4.50048 27.715978,-4.40888 23.069579,0.23608 39.515875,26.32757 39.515875,59.78967 z"
-       id="path66126"
+       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="90.041016"
+       inkscape:export-xdpi="90.041016"
+       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
        sodipodi:nodetypes="csssssc"
-       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
-       inkscape:export-xdpi="90.041016"
-       inkscape:export-ydpi="90.041016"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="ccscc"
-       id="path66128"
-       d="M 57.857497,1052.6032 8.2515237,1033.028 c 4.8500583,-16.9862 15.5972263,-30.9999 30.5743573,-37.51424 6.948128,-3.02194 18.006186,-5.45394 26.60864,-4.79573 54.247829,-6.94013 25.567861,62.83517 -7.577024,61.88517 z"
-       style="display:inline;fill:url(#linearGradient19210);fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
-       inkscape:export-xdpi="90.041016"
-       inkscape:export-ydpi="90.041016"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="csscc"
-       id="path66130"
-       d="m 65.514457,1112.7765 c -8.476448,1.2184 -20.274635,-2.0002 -27.070016,-4.3752 -16.731584,-5.8479 -27.963733,-21.3238 -31.7053119,-40.202 -0.901408,-4.5477 22.1815459,-1.1019 36.7681379,0.6978 34.385643,-2.0393 77.957693,27.8206 22.00719,43.8794 z"
-       style="display:inline;fill:url(#linearGradient19207);fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
-       inkscape:export-xdpi="90.041016"
-       inkscape:export-ydpi="90.041016"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="csssc"
-       id="path66132"
-       d="m 117.49952,1050.2463 c -0.81123,32.7057 -18.288925,57.4575 -45.080466,62.065 -35.822357,6.161 -58.368,-23.5427 -58.400139,-57.6433 -0.03328,-35.4765 23.552,-66.70653 57.949302,-64.00345 27.086787,2.12793 45.531303,25.21005 45.531303,59.58175 z"
-       style="display:inline;fill:url(#linearGradient19204);fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
-       inkscape:export-xdpi="90.041016"
-       inkscape:export-ydpi="90.041016"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:export-ydpi="90.041016"
-       inkscape:export-xdpi="90.041016"
-       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
-       sodipodi:nodetypes="csssc"
-       id="path66136"
-       d="m 113.95916,1050.8686 c -0.76863,30.4009 -17.331804,53.4085 -42.721717,57.6914 -33.948096,5.7267 -55.314058,-21.8837 -55.344405,-53.5814 -0.03189,-32.9765 22.319381,-62.00607 54.917035,-59.493 25.669856,1.97774 43.149087,23.4334 43.149087,55.383 z"
-       style="display:inline;fill:url(#linearGradient19201);fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:export-ydpi="90.041016"
-       inkscape:export-xdpi="90.041016"
-       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
-       inkscape:connector-curvature="0"
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       d="m 64.006723,995.97171 c -0.790581,0.0341 -1.535402,0.1024 -2.311104,0.17636 l 2.933334,21.42233 c 0.51009,-0.028 0.989973,-0.099 1.511104,-0.088 0.545194,0 1.043626,0.043 1.6,0.088 1.901429,0.1536 3.70401,0.5032 5.422229,1.0667 l 4.444437,-21.06681 c -2.57649,-0.73728 -5.288618,-1.19836 -8.088885,-1.42222 -0.942933,-0.0768 -1.920373,-0.16213 -2.844448,-0.17636 -0.8952,-0.0285 -1.789867,-0.037 -2.666667,0 z m -5.155552,0.53334 c -5.060554,0.84025 -9.785429,2.58247 -14.044448,5.06685 l 0.08875,0.1763 9.244448,18.6667 c 2.343648,-1.2684 4.924469,-2.1305 7.644448,-2.5779 l -2.933333,-21.33337 z m 21.422219,1.95556 -4.444437,21.33329 c 2.414421,1.156 4.65425,2.6832 6.57777,4.6223 l 10.755559,-18.1334 c -3.774033,-3.4204 -8.084903,-6.0709 -12.888892,-7.82219 z"
-       id="path66534" />
-    <path
-       style="display:inline;fill:none;stroke:url(#linearGradient19197);stroke-width:2.84444451;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 65.327577,990.24983 c -8.406763,0.36864 -18.687723,2.23204 -24.266816,4.3557 -21.837366,8.31117 -35.7563733,32.65877 -35.7333333,59.46657 0.019947,22.3727 9.9094823,42.3844 26.8444473,51.5555 4.033142,2.184 9.404875,4.2901 14.923659,5.5148 7.494827,1.7852 16.674133,2.3006 25.343147,1.152 26.791541,-4.6077 44.255289,-29.339 45.066529,-62.0447 0,-32.6815 -16.60928,-55.48403 -41.533441,-59.44435 -3.521707,-0.58254 -7.089494,-0.55552 -10.644192,-0.55552 z"
-       id="path66138"
-       sodipodi:nodetypes="csssccccc"
-       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
-       inkscape:export-xdpi="90.041016"
-       inkscape:export-ydpi="90.041016"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:export-ydpi="90.041016"
-       inkscape:export-xdpi="90.041016"
-       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
-       inkscape:connector-curvature="0"
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       d="m 42.406723,1003.1719 c -3.731285,2.5247 -7.105984,5.6667 -10.044437,9.2444 l 13.955552,14.4887 c 1.591179,-1.9026 3.362187,-3.5965 5.333333,-4.9777 z m -11.822218,11.4665 c -2.687488,3.6682 -4.846368,7.874 -6.666667,12.2666 l 17.066667,8.8889 c 0.977269,-2.3566 2.16929,-4.5679 3.555552,-6.5777 z m -7.822219,14.9333 c -1.373045,3.7968 -2.426656,7.779 -3.111115,11.9111 l 18.755552,3.3778 c 0.364406,-2.2135 0.914774,-4.3395 1.6,-6.4 z"
-       id="path66536" />
-    <path
-       inkscape:export-ydpi="90.041016"
-       inkscape:export-xdpi="90.041016"
-       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
-       inkscape:connector-curvature="0"
-       id="path66140"
-       d="m 56.08299,1077.8052 v 0.089 c -0.730197,0.1621 -1.360075,0.6056 -1.688896,1.1554 -0.316672,0.5297 -0.400725,1.0909 -0.355552,1.689 h -0.08875 v 4.6222 c -0.416736,0.037 -0.82768,0.1394 -1.244448,0.1765 8e-4,-1.5267 0.01141,-3.0838 0,-4.6223 v -0.089 c -0.109792,-2.1753 -2.769258,-3.1385 -4.355552,-1.6887 h -0.08875 c -0.601739,0.5894 -0.861664,1.4018 -0.888886,1.9556 -0.02848,0.5748 0.01419,1.0476 0,1.2444 v 0.089 3.5556 c -0.472352,0.031 -0.887872,0.082 -1.422229,0.1764 h -0.08875 -0.08875 c -0.93679,0.2816 -1.506102,1.161 -1.688886,1.8667 -0.173792,0.6702 -0.137674,1.2252 -0.08875,1.6888 0.0011,0.029 -0.0011,0.06 0,0.089 0.128853,2.8721 0.77312,6.1438 3.2,8.4446 v 0.089 c 2.847178,2.6708 7.186293,2.6292 10.311114,0.7112 3.123286,-1.8512 4.640854,-5.2315 5.155552,-8.4446 v -0.089 c 0.151328,-1.0923 0.327595,-2.283 0.177782,-3.6443 v -0.089 -0.089 c -0.19855,-0.793 -0.798891,-1.3989 -1.42223,-1.6887 -0.539904,-0.2504 -1.127509,-0.3471 -1.688885,-0.2674 h -0.266528 -0.177771 c 0.0032,-1.5127 0.0304,-3.0817 0,-4.6222 v -0.089 c -0.213333,-1.4748 -1.579754,-2.4647 -3.022229,-2.2224 -0.06347,0 -0.114059,0 -0.177771,0 z m 4,9.5113 c 0.0432,0 0.128,0 0.177771,0 -0.01707,0 -0.07083,0.091 -0.08875,0.089 0.02848,0 0.06624,0 0.08875,0 0.05003,0.8277 -0.03445,1.7207 -0.177771,2.7557 -0.244341,1.525 -0.890571,2.9202 -1.688896,4.1776 v -0.1763 c 1.049003,-1.5889 1.650752,-3.563 1.688896,-5.2442 l 0.08875,-1.5113 h -0.177782 l 0.08875,-0.089 z m -0.177781,0.089 -1.333334,0.1764 c -0.162421,0.029 -0.398474,0.072 -0.711114,0.089 -0.256278,0 -0.530603,0.051 -0.8,0.088 -0.0592,0 -0.113494,0 -0.177771,0 -0.08789,0 -0.178635,0 -0.266528,0 v -0.088 l 1.422219,-0.1765 1.866666,-0.089 z m -13.333334,1.3336 c 0.05003,0 0.126294,0 0.177782,0 l 0.08875,1.2443 c 0.117184,1.302 0.36224,2.704 0.8,4.089 -0.58337,-1.3648 -1.000448,-2.8505 -1.066666,-4.4445 v -0.089 c -0.03381,-0.3123 -0.02848,-0.6363 0,-0.7999 z m 10.4,1.6 c -0.261973,1.1192 -0.457642,2.4646 -0.888885,2.9331 l -0.08875,0.089 c -0.75552,1.1042 -2.178933,1.7577 -3.555562,1.6891 h -0.08875 c -0.952629,0.029 -1.973472,-0.7561 -2.222219,-1.6891 -0.23296,-0.717 -0.339338,-1.59 -0.444448,-2.3998 0.455915,-0.043 0.876971,-0.037 1.333334,-0.088 v 0.088 c 2.010624,-0.1679 4.002026,-0.4676 5.955562,-0.6224 z m -9.244448,3.822 c 0.270507,0.9167 0.816875,1.7072 1.511115,2.3111 -0.07221,-0.06 -0.197973,-0.029 -0.266528,-0.089 -0.607509,-0.576 -0.891733,-1.4301 -1.244437,-2.2222 z m 8.977782,2.0446 c -0.200822,0.1564 -0.314198,0.4033 -0.533334,0.5334 v 0.089 c -0.07883,0.048 -0.185173,0.043 -0.266528,0.089 0.312267,-0.165 0.516982,-0.4958 0.8,-0.7111 z"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient19191);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99049908px;marker:none;enable-background:accumulate" />
-    <path
-       inkscape:export-ydpi="90.041016"
-       inkscape:export-xdpi="90.041016"
-       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
-       inkscape:connector-curvature="0"
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       d="m 95.295615,1008.3274 -10.933329,18.3111 c 1.338816,1.709 2.488832,3.662 3.466667,5.7777 l 15.111107,-12.8888 c -2.11695,-4.2328 -4.613632,-8.0242 -7.644445,-11.2 z m 8.977775,13.8667 -15.288885,13.0665 c 0.816672,2.3111 1.484,4.7875 1.866666,7.4667 l 17.688889,-5.3334 c -0.84273,-5.5327 -2.29968,-10.6316 -4.26667,-15.1998 z m 4.62223,18.1333 -17.688897,5.4221 c 0.09557,1.2481 0.08875,2.5085 0.08875,3.8224 -0.03211,1.3502 -0.135104,2.7025 -0.266517,3.9998 l 17.955544,2.5779 c 0.23951,-2.2297 0.38773,-4.5192 0.44445,-6.8446 0,-3.114 -0.21021,-6.0822 -0.53333,-8.9776 z"
-       id="path66538" />
-    <path
-       inkscape:export-ydpi="90.041016"
-       inkscape:export-xdpi="90.041016"
-       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccc"
-       inkscape:connector-curvature="0"
-       id="path66144"
-       d="m 55.905209,1079.4052 c -0.767286,0.1224 -1.16352,0.9265 -1.066667,1.6435 0,1.9412 0,3.8822 0,5.8232 -1.303691,0.1195 -2.607413,0.2362 -3.911115,0.3556 -0.0053,-1.9997 0.0085,-4.0002 -0.0053,-5.9996 -0.05291,-1.047 -1.468875,-1.5976 -2.215051,-0.8612 -0.6672,0.6025 -0.383658,1.5488 -0.44496,2.3373 0,1.5968 0,3.1934 0,4.7903 -0.854645,0.088 -1.723616,0.085 -2.56816,0.236 -0.971072,0.2931 -0.968192,1.4266 -0.878997,2.2477 0.113493,2.7322 0.731541,5.6992 2.793248,7.6539 2.331051,2.1866 6.106229,2.2055 8.749259,0.5834 2.658496,-1.5755 4.05265,-4.6063 4.525568,-7.5586 0.154165,-1.1132 0.340106,-2.2556 0.216746,-3.3766 -0.193706,-0.774 -1.052704,-1.0798 -1.768768,-0.9162 -0.60817,0.051 -1.216309,0.1024 -1.82448,0.1508 -0.01141,-2.0134 0.02272,-4.0292 -0.01707,-6.0411 -0.10464,-0.7233 -0.871595,-1.2421 -1.582134,-1.0701 z m 0.711114,15.0224 c -1.039168,1.5186 -2.881514,2.3521 -4.703637,2.261 -1.603008,0.034 -3.094613,-1.118 -3.505941,-2.6607 -0.40591,-1.2498 -0.56207,-2.563 -0.679318,-3.8669 0.903744,-0.082 1.8176,-0.1593 2.709483,-0.2589 2.074539,-0.1735 4.157355,-0.4054 6.225067,-0.5632 0.330752,-0.063 1.15968,-0.068 1.674005,-0.1422 -0.0384,1.6927 -0.632064,4.0513 -1.719659,5.233 z"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.99049908px;marker:none;enable-background:accumulate" />
-    <path
-       inkscape:export-ydpi="90.041016"
-       inkscape:export-xdpi="90.041016"
-       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
-       inkscape:connector-curvature="0"
-       style="display:inline;fill:url(#linearGradient19186);fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       d="m 19.206723,1044.3273 c -0.361984,2.9206 -0.536117,5.878 -0.533333,8.8889 0.0021,1.7237 0.05035,3.4619 0.177781,5.1555 l 19.022219,-3.2887 c -0.07712,-1.0331 -0.08789,-2.0597 -0.08875,-3.1113 -0.0011,-1.4344 0.0432,-2.8643 0.177782,-4.2667 l -18.755552,-3.3777 z m 19.02223,13.6001 -19.02223,3.2888 c 0.508107,4.2939 1.377398,8.4187 2.666667,12.3556 l 17.777781,-9.2444 c -0.655669,-2.0403 -1.105781,-4.1955 -1.422218,-6.4 z m 2.4,9.0667 -17.777782,9.2444 c 1.861323,4.8822 4.274038,9.4165 7.288886,13.3333 l 14.577781,-15.4666 c -1.630464,-2.1208 -3.012949,-4.4971 -4.088885,-7.1111 z"
-       id="path66540" />
+       id="path66386"
+       d="m 108.27783,1049.9956 c -0.81095,31.8398 -16.618369,62.6006 -43.787371,62.7808 -11.464811,0.077 -24.136534,-2.7161 -32.330806,-7.1535 -16.934973,-9.1707 -26.773333,-29.1993 -26.792683,-51.572 -0.0227,-26.8077 13.84192,-51.1249 35.679009,-59.43601 6.376106,-2.42659 18.866069,-4.50048 27.715989,-4.40888 23.069579,0.23608 39.515862,26.32749 39.515862,59.78959 z"
+       style="display:inline;fill:url(#linearGradient19109);fill-opacity:1;stroke:none;stroke-width:1.06666672" />
     <path
        inkscape:connector-curvature="0"
        inkscape:export-ydpi="90.041016"
        inkscape:export-xdpi="90.041016"
        inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
-       style="display:inline;fill:url(#linearGradient19183);fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       d="m 73.76619,1051.5712 c -0.12544,5.0611 -2.830283,8.8918 -6.976341,9.6046 -5.543659,0.9534 -9.032651,-3.6432 -9.037632,-8.9205 -0.0053,-5.4901 3.644757,-10.3231 8.96785,-9.9046 4.191776,0.3294 7.046123,3.9014 7.046123,9.2205 z"
-       id="path66152"
+       style="display:inline;fill:url(#linearGradient19106);fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       d="M 57.857499,1052.6031 8.2515249,1033.0279 c 4.8500591,-16.9862 15.5972271,-30.9999 30.5743681,-37.51416 6.948118,-3.02194 18.006187,-5.45394 26.60864,-4.79573 54.247817,-6.94013 25.567862,62.83509 -7.577034,61.88509 z"
+       id="path66388"
+       sodipodi:nodetypes="ccscc" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="90.041016"
+       inkscape:export-xdpi="90.041016"
+       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
+       style="display:inline;fill:url(#linearGradient19103);fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       d="m 65.514459,1112.7764 c -8.476438,1.2184 -20.274635,-2.0002 -27.070006,-4.3752 -16.731594,-5.8479 -27.963733,-21.3238 -31.7053223,-40.202 -0.9013974,-4.5477 22.1815463,-1.1019 36.7681493,0.6978 34.385632,-2.0393 77.95768,27.8206 22.007179,43.8794 z"
+       id="path66390"
+       sodipodi:nodetypes="csscc" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="90.041016"
+       inkscape:export-xdpi="90.041016"
+       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
+       style="display:inline;fill:url(#linearGradient19100);fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       d="m 117.49952,1050.2462 c -0.81123,32.7057 -18.288912,57.4575 -45.080453,62.065 -35.822368,6.161 -58.367997,-23.5427 -58.400147,-57.6433 -0.0333,-35.4765 23.551997,-66.70645 57.949299,-64.00337 27.086794,2.12793 45.531301,25.20997 45.531301,59.58167 z"
+       id="path66392"
        sodipodi:nodetypes="csssc" />
     <path
-       inkscape:export-ydpi="90.041016"
-       inkscape:export-xdpi="90.041016"
-       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
-       inkscape:transform-center-y="0.60582406"
-       inkscape:transform-center-x="21.913213"
-       sodipodi:nodetypes="cccsccc"
        inkscape:connector-curvature="0"
-       id="path66154"
-       d="m 21.110985,1051.128 c -0.2722,1.9261 3.195111,2.4448 6.453953,2.8952 l 35.147688,4.8589 c 3.935496,0.5639 5.966637,-3.5675 5.934538,-5.8326 -0.03824,-2.6868 -1.888755,-6.6476 -6.387622,-6.4166 l -34.360113,2.5017 c -3.24315,0.071 -6.450063,0.1675 -6.788497,1.9935 z"
-       style="display:inline;fill:#000000;fill-opacity:0.37004406;stroke:none;stroke-width:1.06666672" />
-    <path
-       style="display:inline;fill:url(#linearGradient19179);stroke:none;stroke-width:1.06666672"
-       d="m 22.808062,1047.431 c -1.437905,-0.07 -2.396386,0.6417 -2.608616,1.6424 -0.207574,0.9856 0.378952,2.0884 2.22712,2.3587 l 38.683532,5.5235 c 3.935445,0.564 5.966611,-3.5674 5.9343,-5.8326 -0.03805,-2.6867 -2.040523,-5.6808 -6.539412,-5.4498 z"
-       id="path66156"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csccscc"
-       inkscape:transform-center-x="23.182688"
-       inkscape:transform-center-y="-0.83870543"
+       style="display:inline;fill:url(#linearGradient19097);fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       d="m 113.95919,1050.8685 c -0.76866,30.4009 -17.33182,53.4085 -42.72173,57.6914 -33.948111,5.7267 -55.31407,-21.8837 -55.34442,-53.5814 -0.0319,-32.9765 22.319392,-62.00599 54.91704,-59.49292 25.66988,1.97774 43.14911,23.43332 43.14911,55.38292 z"
+       id="path66394"
+       sodipodi:nodetypes="csssc"
        inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
        inkscape:export-xdpi="90.041016"
        inkscape:export-ydpi="90.041016" />
     <path
-       sodipodi:nodetypes="csssc"
-       id="path66158"
-       d="m 72.96619,1051.5305 c -0.100373,4.05 -2.264725,7.1151 -5.582283,7.6857 -4.435914,0.7629 -7.227701,-2.9152 -7.23169,-7.1381 -0.0053,-4.393 2.916437,-8.2603 7.17585,-7.9255 3.354144,0.2646 5.638123,3.1218 5.638123,7.3779 z"
-       style="display:inline;fill:url(#linearGradient19176);fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="90.041016"
+       inkscape:export-xdpi="90.041016"
+       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
+       sodipodi:nodetypes="csssccccc"
+       id="path66396"
+       d="m 65.327579,990.24981 c -8.406752,0.36864 -18.687712,2.23204 -24.266806,4.3557 C 19.223397,1002.9166 5.3044,1027.2642 5.32744,1054.072 c 0.019947,22.3727 9.909472,42.3844 26.844437,51.5555 4.033142,2.184 9.404875,4.2901 14.92367,5.5148 7.494826,1.7852 16.674133,2.3006 25.343146,1.152 26.791542,-4.6077 44.255277,-29.339 45.066527,-62.0447 0,-32.6815 -16.60928,-55.48395 -41.533439,-59.44427 -3.521706,-0.58254 -7.089493,-0.55552 -10.644202,-0.55552 z"
+       style="display:inline;fill:none;stroke:url(#linearGradient19094);stroke-width:2.84444451;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient19091);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99049908px;marker:none;enable-background:accumulate"
+       d="m 100.02463,1058.8647 v 0.089 c -0.730199,0.1621 -1.360066,0.6056 -1.688887,1.1554 -0.316672,0.5297 -0.400726,1.0909 -0.355552,1.689 h -0.08875 v 4.6222 c -0.416747,0.037 -0.82768,0.1394 -1.244448,0.1765 8e-4,-1.5267 0.01141,-3.0838 0,-4.6223 v -0.089 c -0.109792,-2.1753 -2.769269,-3.1385 -4.355552,-1.6887 h -0.08875 c -0.601749,0.5894 -0.861674,1.4018 -0.888896,1.9556 -0.02848,0.5748 0.01419,1.0476 0,1.2444 v 0.089 3.5556 c -0.472352,0.031 -0.887861,0.082 -1.422218,0.1764 h -0.08875 -0.08875 c -0.936789,0.2816 -1.506112,1.161 -1.688896,1.8667 -0.173792,0.6702 -0.137664,1.2252 -0.08875,1.6888 0.0011,0.029 -0.0011,0.06 0,0.089 0.128853,2.8721 0.77312,6.1438 3.2,8.4446 v 0.089 c 2.847178,2.6708 7.186293,2.6292 10.311109,0.7112 3.12329,-1.8512 4.64086,-5.2315 5.15557,-8.4446 v -0.089 c 0.15131,-1.0923 0.32759,-2.283 0.17777,-3.6443 v -0.089 -0.089 c -0.19854,-0.793 -0.79889,-1.3989 -1.42222,-1.6887 -0.5399,-0.2504 -1.12751,-0.3471 -1.68889,-0.2674 h -0.26652 -0.17779 c 0.003,-1.5127 0.0304,-3.0817 0,-4.6222 v -0.089 c -0.21333,-1.4748 -1.57974,-2.4647 -3.02221,-2.2224 -0.0635,0 -0.11406,0 -0.17779,0 z m 4,9.5113 c 0.0432,0 0.128,0 0.17778,0 -0.0171,0 -0.0708,0.091 -0.0888,0.089 0.0285,0 0.0662,0 0.0888,0 0.05,0.8277 -0.0345,1.7207 -0.17778,2.7557 -0.24433,1.525 -0.89056,2.9202 -1.68889,4.1776 v -0.1763 c 1.049,-1.5889 1.65074,-3.563 1.68889,-5.2442 l 0.0888,-1.5113 h -0.17777 l 0.0888,-0.089 z m -0.17777,0.089 -1.33334,0.1764 c -0.16242,0.029 -0.39848,0.072 -0.71111,0.089 -0.25629,0 -0.5306,0.051 -0.8,0.088 -0.0592,0 -0.11349,0 -0.17778,0 -0.0879,0 -0.17863,0 -0.26652,0 v -0.088 l 1.42222,-0.1765 1.86667,-0.089 z m -13.333347,1.3336 c 0.05003,0 0.126294,0 0.177782,0 l 0.08875,1.2443 c 0.117195,1.302 0.36224,2.704 0.8,4.089 -0.58337,-1.3648 -1.000448,-2.8505 -1.066666,-4.4445 v -0.089 c -0.03381,-0.3123 -0.02848,-0.6363 0,-0.7999 z m 10.400007,1.6 c -0.26197,1.1192 -0.45764,2.4646 -0.88889,2.9331 l -0.08875,0.089 c -0.755509,1.1042 -2.178922,1.7577 -3.555552,1.6891 h -0.08875 c -0.95263,0.029 -1.973472,-0.7561 -2.222219,-1.6891 -0.23296,-0.717 -0.339349,-1.59 -0.444448,-2.3998 0.455904,-0.043 0.876971,-0.037 1.333333,-0.088 v 0.088 c 2.010624,-0.1679 4.002016,-0.4676 5.955546,-0.6224 z m -9.244444,3.822 c 0.270507,0.9167 0.816864,1.7072 1.511115,2.3111 -0.07221,-0.06 -0.197974,-0.029 -0.266528,-0.089 -0.60752,-0.576 -0.891734,-1.4301 -1.244448,-2.2222 z m 8.977784,2.0446 c -0.20082,0.1564 -0.3142,0.4033 -0.53334,0.5334 v 0.089 c -0.0788,0.048 -0.185169,0.043 -0.266524,0.089 0.312264,-0.165 0.516984,-0.4958 0.800004,-0.7111 z"
+       id="path66398"
+       inkscape:connector-curvature="0"
        inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
        inkscape:export-xdpi="90.041016"
-       inkscape:export-ydpi="90.041016"
+       inkscape:export-ydpi="90.041016" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.99049908px;marker:none;enable-background:accumulate"
+       d="m 99.846857,1060.4647 c -0.767296,0.1224 -1.16352,0.9265 -1.066666,1.6435 0,1.9412 0,3.8822 0,5.8232 -1.303702,0.1195 -2.607424,0.2362 -3.911115,0.3556 -0.0053,-1.9997 0.0085,-4.0002 -0.0053,-5.9996 -0.05291,-1.047 -1.468875,-1.5976 -2.215062,-0.8612 -0.667189,0.6025 -0.383658,1.5488 -0.444949,2.3373 0,1.5968 0,3.1934 0,4.7903 -0.854645,0.088 -1.723627,0.085 -2.568171,0.236 -0.971061,0.2931 -0.968192,1.4266 -0.878986,2.2477 0.113493,2.7322 0.73153,5.6992 2.793237,7.6539 2.331061,2.1866 6.106229,2.2055 8.749255,0.5834 2.65851,-1.5755 4.05265,-4.6063 4.52557,-7.5586 0.15418,-1.1132 0.34012,-2.2556 0.21675,-3.3766 -0.19371,-0.774 -1.0527,-1.0798 -1.76876,-0.9162 -0.60817,0.051 -1.21631,0.1024 -1.82448,0.1508 -0.0114,-2.0134 0.0227,-4.0292 -0.0171,-6.0411 -0.10464,-0.7233 -0.87159,-1.2421 -1.582143,-1.0701 z m 0.711103,15.0224 c -1.039156,1.5186 -2.881503,2.3521 -4.703625,2.261 -1.603019,0.034 -3.094614,-1.118 -3.505952,-2.6607 -0.405899,-1.2498 -0.562059,-2.563 -0.679307,-3.8669 0.903733,-0.082 1.8176,-0.1593 2.709472,-0.2589 2.074539,-0.1735 4.157355,-0.4054 6.225062,-0.5632 0.33076,-0.063 1.15968,-0.068 1.67402,-0.1422 -0.0384,1.6927 -0.63206,4.0513 -1.71967,5.233 z"
+       id="path66402"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc"
+       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
+       inkscape:export-xdpi="90.041016"
+       inkscape:export-ydpi="90.041016" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 67.37695,1000.0293 c -16.689574,-0.20698 -32.835476,9.7326 -42.583984,27.869 -6.959716,12.9481 -7.892526,30.0814 -2.503907,45.6367 6.92e-4,0 0.0013,0 0.002,0.01 6.919799,20.0653 23.887614,30.3257 39.947265,30.9004 13.400398,0.4797 23.654659,-5.7281 32.875,-12.0898 l -11.925827,-17.2833 c -8.604362,5.9367 -13.296116,8.6339 -20.199219,8.3868 -8.877443,-0.3177 -16.359524,-3.7501 -20.845703,-16.7637 l -0.0039,-0.01 -0.0039,-0.01 c -3.223323,-9.2958 -1.786107,-23.358 1.15625,-28.8321 7.028012,-13.0751 14.805086,-16.9263 23.826172,-16.8144 z"
+       id="path4684"
        inkscape:connector-curvature="0" />
     <path
-       transform="matrix(2.8444445,0,0,2.8444445,-947.91699,-1231.0835)"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:0.62555069;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;filter:url(#filter21405-5-3);enable-background:accumulate"
-       d="m 372.65625,780.971 c -1.2312,0 -2.26742,1.0501 -2.25,2.2812 v 5.5938 l -4.09375,0.031 v -5.625 c 0.008,-1.3122 -1.19563,-2.3905 -2.5,-2.25 l -0.25,0.031 -0.0625,0.125 c -0.95174,0.2704 -1.69323,1.0813 -1.6875,2.0937 v 5.6563 l -2.25,0.031 c -1.21952,1e-4 -2.24988,1.0305 -2.25,2.25 0,4.6893 0.97288,8.1781 3.03125,10.5625 2.06591,2.3931 5.06801,3.3257 8.09375,3.2812 2.84059,-0.042 5.7644,-0.9686 7.875,-3.3125 2.10585,-2.3386 3.25329,-5.8177 3.34375,-10.5625 0.0445,-1.2484 -1.00085,-2.3132 -2.25,-2.3125 h -2.5 v -5.5937 c 0.0174,-1.2311 -1.0188,-2.2813 -2.25,-2.2813 z m 2.125,12.375 c -0.33984,2.5391 -0.97955,4.4499 -1.8125,5.375 -1.15257,1.2799 -2.59636,1.7831 -4.59375,1.8125 -2.16781,0.032 -3.54562,-0.4684 -4.625,-1.7188 -0.77951,-0.903 -1.3795,-2.8203 -1.65625,-5.375 4.23403,-0.012 8.47132,-0.087 12.6875,-0.094 z"
-       id="path20279"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#linearGradient4889);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:21;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 83.1875,1075.0683 c -8.60436,5.9367 -13.29612,8.6338 -20.19922,8.3867 -0.20181,-0.01 -0.39926,-0.025 -0.59961,-0.035 l -2.9414,20.8223 c 0.93179,0.098 1.86316,0.166 2.79101,0.1992 13.4004,0.4797 23.65466,-5.7281 32.875,-12.0898 z"
+       id="path4779"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.62780265"
+       d="m 46.639313,1099.4939 4.225478,-9.8663"
+       id="path4707"
        inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4718"
+       d="m 26.211051,1027.2587 9.103891,4.7605"
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.62780265" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.62780265"
+       d="m 22.281018,1066.6993 8.643998,-2.6886"
+       id="path4748"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:3.4000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.65022421"
+       d="m 66.764204,1022.5278 -0.256225,-21.5242 c -15.888166,-0.1145 -32.866347,10.9924 -41.09945,28.0156 -4.522191,9.3502 -6.611909,23.1095 -3.648803,38.8446 4.935451,16.7206 13.588805,27.6785 28.235499,32.5192 14.830641,4.9015 26.239794,2.9142 43.262322,-8.3987 l -12.592703,-17.7464"
+       id="path4722"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscscc" />
+    <rect
+       inkscape:export-ydpi="57.964222"
+       inkscape:export-xdpi="57.964222"
+       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/08-09-22-hastaahora.png"
+       ry="3.8658166"
+       rx="3.8659387"
+       y="988.52716"
+       x="70.494247"
+       height="63.893635"
+       width="63.895657"
+       id="rect846"
+       style="display:inline;fill:url(#linearGradient850);fill-opacity:1;stroke:none;stroke-width:1.06666672" />
+    <rect
+       inkscape:export-ydpi="57.964222"
+       inkscape:export-xdpi="57.964222"
+       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/08-09-22-hastaahora.png"
+       ry="3.6927202"
+       rx="3.6928368"
+       y="987.12415"
+       x="73.943214"
+       height="61.032726"
+       width="61.034657"
+       id="rect848"
+       style="display:inline;fill:url(#linearGradient5121);fill-opacity:1;stroke:none;stroke-width:1.70666671;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:0.55605379;stroke:#000000;stroke-width:1.43299997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29147985;marker:none;enable-background:accumulate"
+       d="m 132.83434,1008.7282 c -0.21594,-2 -2.096,-3.6788 -4.10749,-3.6674 h -14.44964 l -0.0726,-6.45444 c 0,-2.15061 -1.95681,-4.10727 -4.10745,-4.10748 -10.84449,0 -18.755109,2.24336 -24.058203,6.82132 -5.302849,4.5779 -7.362298,11.2612 -7.261379,18.1169 0.0939,6.4325 2.119769,12.9074 7.334819,17.6034 5.215132,4.696 13.099924,7.3459 24.058213,7.5548 2.19907,0.079 4.25537,-1.9071 4.25414,-4.1074 v -7.0414 h 14.3028 c 2.17016,0.031 4.16617,-1.9373 4.16617,-4.1075 0,-2.1703 -1.99601,-4.1382 -4.16617,-4.1075 h -14.3028 l -0.0726,-11.9557 h 14.37624 c 2.30536,0.014 4.35419,-2.2553 4.10751,-4.5475 z m -26.62544,27.0653 c -6.880408,-0.7278 -11.906576,-2.4192 -14.596205,-4.841 -3.267658,-2.9425 -4.548977,-6.778 -4.621013,-11.6623 -0.07757,-5.2841 1.192777,-8.9661 4.400859,-11.7356 2.650598,-2.2881 7.676767,-3.8424 14.596359,-4.4009 0.024,10.8778 0.22065,21.7844 0.22065,32.6398 z"
+       id="path5123"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccscsccccscccccccssscc"
        inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
        inkscape:export-xdpi="90.041016"
        inkscape:export-ydpi="90.041016" />
     <path
+       inkscape:export-ydpi="90.041016"
+       inkscape:export-xdpi="90.041016"
+       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
        sodipodi:nodetypes="cccccscsccccscccccccssscc"
        inkscape:connector-curvature="0"
-       id="path20281"
-       d="m 89.610626,988.71895 c -2.423687,0.26169 -4.458237,2.54009 -4.444434,4.97778 v 17.51127 l -7.822059,0.088 c -2.606272,0 -4.977514,2.3714 -4.97777,4.9778 0,13.1422 2.718688,22.7288 8.266634,29.1555 5.547979,6.4265 13.647304,8.9222 21.955553,8.7999 7.79554,-0.1138 15.64234,-2.5688 21.33333,-8.8889 5.69099,-6.3201 8.90238,-15.8754 9.15556,-29.1556 0.095,-2.6649 -2.31117,-5.1569 -4.97778,-5.1555 h -8.53333 v -17.33321 c 0.0372,-2.62997 -2.3477,-5.04888 -4.97779,-5.04888 -2.63008,0 -5.01497,2.41891 -4.97777,5.04888 v 17.33321 l -14.488891,0.088 v -17.42222 c 0.01707,-2.79381 -2.733194,-5.27672 -5.511104,-4.97778 z m 32.799994,32.26685 c -0.88197,8.3382 -2.93171,14.4293 -5.86666,17.6887 -3.56597,3.96 -8.21416,5.5128 -14.13333,5.6001 -6.40378,0.094 -10.865892,-1.4455 -14.222223,-5.3333 -2.772935,-3.2122 -4.656519,-9.3033 -5.33333,-17.689 13.182632,-0.029 26.400053,-0.2674 39.555543,-0.2674 z"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2.84444451;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
-       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
-       inkscape:export-xdpi="90.041016"
-       inkscape:export-ydpi="90.041016" />
-    <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient20313);fill-opacity:1;stroke:none;stroke-width:0.53333336;marker:none;enable-background:accumulate"
-       d="m 89.610626,988.71895 c -2.423687,0.26169 -4.458237,2.54009 -4.444434,4.97778 v 17.51127 l -7.822059,0.088 c -2.606272,0 -4.977514,2.3714 -4.97777,4.9778 0,13.1422 2.718688,22.7288 8.266634,29.1555 5.547979,6.4265 13.647304,8.9222 21.955553,8.7999 7.79554,-0.1138 15.64234,-2.5688 21.33333,-8.8889 5.69099,-6.3201 8.90238,-15.8754 9.15556,-29.1556 0.095,-2.6649 -2.31117,-5.1569 -4.97778,-5.1555 h -8.53333 v -17.33321 c 0.0372,-2.62997 -2.3477,-5.04888 -4.97779,-5.04888 -2.63008,0 -5.01497,2.41891 -4.97777,5.04888 v 17.33321 l -14.488891,0.088 v -17.42222 c 0.01707,-2.79381 -2.733194,-5.27672 -5.511104,-4.97778 z m 32.799994,32.26685 c -0.88197,8.3382 -2.93171,14.4293 -5.86666,17.6887 -3.56597,3.96 -8.21416,5.5128 -14.13333,5.6001 -6.40378,0.094 -10.865892,-1.4455 -14.222223,-5.3333 -2.772935,-3.2122 -4.656519,-9.3033 -5.33333,-17.689 13.182632,-0.029 26.400053,-0.2674 39.555543,-0.2674 z"
-       id="path20283"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccscsccccscccccccssscc"
-       inkscape:export-filename="/home/dafeba/DCV/tallerD/bocetos/bateria.png"
-       inkscape:export-xdpi="90.041016"
-       inkscape:export-ydpi="90.041016" />
+       id="path66454-5"
+       d="m 131.50501,1006.7627 c -0.21594,-2 -2.096,-3.6788 -4.10749,-3.6674 h -14.44965 l -0.0726,-6.45443 c 0,-2.1506 -1.9568,-4.10726 -4.10744,-4.10748 -10.844496,0 -18.755115,2.24336 -24.058209,6.82132 -5.302848,4.57789 -7.362297,11.26119 -7.261379,18.11689 0.09391,6.4326 2.119769,12.9074 7.334819,17.6034 5.215132,4.696 13.099924,7.3459 24.058209,7.5548 2.19908,0.079 4.25538,-1.907 4.25415,-4.1074 v -7.0414 h 14.3028 c 2.17016,0.031 4.16617,-1.9372 4.16617,-4.1075 0,-2.1702 -1.99601,-4.1382 -4.16617,-4.1075 h -14.3028 l -0.0726,-11.9556 h 14.37624 c 2.30536,0.014 4.35419,-2.2554 4.10751,-4.5476 z m -26.62544,27.0653 c -6.880413,-0.7278 -11.906582,-2.4191 -14.596211,-4.8409 -3.267658,-2.9426 -4.548976,-6.7781 -4.621013,-11.6623 -0.07757,-5.2842 1.192777,-8.9662 4.400859,-11.7357 2.650598,-2.2881 7.676767,-3.8424 14.596365,-4.4008 0.0239,10.8778 0.22065,21.7843 0.22065,32.6397 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.53333336;marker:none;enable-background:accumulate" />
   </g>
 </svg>
