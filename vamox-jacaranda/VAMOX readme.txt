@@ -5,7 +5,12 @@ Creative Commons by-sa 3.0 - vamox.blogspot.com
 
 Changelog:
 
+2.1
+Vamox Argentum (grey) added
+app / Gambas ( suggested by Patricio Prieto Garay )
+
 2.0.3
+Battery icons correction (?)
 Printer Simbolic and printer network symbolic
 "Jacarandá" color
 Clear file ( / )
