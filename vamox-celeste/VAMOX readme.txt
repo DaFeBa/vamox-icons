@@ -5,6 +5,10 @@ Creative Commons by-sa 3.0 - vamox.blogspot.com
 
 Changelog:
 
+2.1.1
+
+New emblems, more colorfull and detailed for all themes
+
 2.1
 Vamox Argentum (grey) added
 app / Gambas ( suggested by Patricio Prieto Garay )
