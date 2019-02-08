@@ -2,6 +2,9 @@ vamox icon theme
 Created by Darío Badagnani and Emiliano Luciani
 Creative Commons by-sa 3.0 - vamox.blogspot.com
 
+Roadmap
+
+Open to ideas/requests
 
 Changelog:
 
